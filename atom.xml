@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Miss.CAICAI</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-09-29T14:27:56.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>caicai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>resume</title>
+    <link href="http://yoursite.com/2017/09/29/resume-1/"/>
+    <id>http://yoursite.com/2017/09/29/resume-1/</id>
+    <published>2017-09-29T14:21:36.000Z</published>
+    <updated>2017-09-29T14:27:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>THIS IS A TEST POST.<br>THIS IS A TEST POST.THIS IS A TEST POST.THIS IS A TEST POST.<br><a id="more"></a><br>THIS IS A TEST POST.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;THIS IS A TEST POST.&lt;br&gt;THIS IS A TEST POST.THIS IS A TEST POST.THIS IS A TEST POST.&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="UX" scheme="http://yoursite.com/tags/UX/"/>
+    
+      <category term="UI" scheme="http://yoursite.com/tags/UI/"/>
+    
+      <category term="UED" scheme="http://yoursite.com/tags/UED/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>drawing</title>
+    <link href="http://yoursite.com/2017/09/09/drawing/"/>
+    <id>http://yoursite.com/2017/09/09/drawing/</id>
+    <published>2017-09-09T14:32:38.000Z</published>
+    <updated>2017-09-09T14:40:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://muse-img.b0.upaiyun.com/da4f66f8271f15d2f6be7efdb0c264c2398e68c6b9e98-q5p1sxe3tyb9" alt="image"></p><p><img src="https://muse-img.b0.upaiyun.com/21355a99cff223f374136e9839c9e4aa489ade07e790e-8v8vjv3ivn29" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://muse-img.b0.upaiyun.com/da4f66f8271f15d2f6be7efdb0c264c2398e68c6b9e98-q5p1sxe3tyb9&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>shengcan bbs</title>
+    <link href="http://yoursite.com/2017/09/09/shengcan-bbs/"/>
+    <id>http://yoursite.com/2017/09/09/shengcan-bbs/</id>
+    <published>2017-09-09T14:32:09.000Z</published>
+    <updated>2017-09-09T14:39:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>盛灿bbs<br><img src="https://muse-img.b0.upaiyun.com/ea8d5db14f055e1ae4c6904e15516fe94a0e5415ab60a-8ma81tznnrk9" alt="image"><br>德鲁克这样说道：</p><p>当你把工作外包给一名全面质量控制专家，他就是在一年 48 个星期为你和其他客户而忙，他把这些工作视为挑战。而如果公司雇佣了一名全面质量控制人员，那么他一年只忙六个星期，其余时间则在写备忘录和找事做。<br>这就是许多企业的弊病。</p><p>在我这几年接触到的企业之中，许多创业团队都受困于一个问题：人力成本越来越高，且根本无法人尽其用，这造成了大量的资金开支。</p><p>非常简单的道理：大多数企业，尤其是中小型企业，由于市场、行业、资源等因素，不可能始终保证工作饱和。在项目与项目的间隙，一定有大量资源是被闲置的。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;盛灿bbs&lt;br&gt;&lt;img src=&quot;https://muse-img.b0.upaiyun.com/ea8d5db14f055e1ae4c6904e15516fe94a0e5415ab60a-8ma81tznnrk9&quot; alt=&quot;image&quot;&gt;&lt;br&gt;德鲁克这样说道：&lt;/
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>visual design</title>
+    <link href="http://yoursite.com/2017/09/09/visual-design/"/>
+    <id>http://yoursite.com/2017/09/09/visual-design/</id>
+    <published>2017-09-09T14:31:49.000Z</published>
+    <updated>2017-09-09T14:31:49.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>resume</title>
+    <link href="http://yoursite.com/2017/09/09/resume/"/>
+    <id>http://yoursite.com/2017/09/09/resume/</id>
+    <published>2017-09-09T14:31:32.000Z</published>
+    <updated>2017-09-09T14:49:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/WX20170909-224629@2x.png" alt="image"></p><p><img src="https://muse-img.b0.upaiyun.com/2a0d83cdba46d16bca3ed4cb6d85be5dc29f49afa7a8e-40688pdp9zfr" alt="image"></p><p><img src="https://muse-img.b0.upaiyun.com/62a685f0ddb58169e64e3fc859b73864b0b11d8dc3d6a-aejkkx3tmx6r" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/WX20170909-224629@2x.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://muse-img.b0.upaiyun.com/2a0d83
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>微客多</title>
+    <link href="http://yoursite.com/2017/09/09/weikeduo/"/>
+    <id>http://yoursite.com/2017/09/09/weikeduo/</id>
+    <published>2017-09-09T14:31:19.000Z</published>
+    <updated>2017-09-09T14:38:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>微客多项目<br><img src="https://muse-img.b0.upaiyun.com/0bf62546cc924d514084e89f6389461be1b9fc4baf802-mm1csvc2fbt9" alt="image"><br>不想失业？你得学会为自己工作</p><p>Lachel • 4小时前 • 职场漫谈<br>也许，我们很快将会迎来一个「个人品牌」的时代。<br>编者按：本文来自微信公众号”L先生说（ID：lxianshengmiao）”，作者Lachel；36氪经授权发布。</p><p>正在读这篇文章的你，从事着什么工作呢？</p><p>也许，你是一名白领，坐在冷气强劲的5A级写字楼，拿着一万出头的工资，每天朝九晚八，带着一身疲惫回家。虽然积蓄不多，却也在一直慢慢增长。</p><p>又或许，你是一名应届生，刚刚进入心仪的大公司，虽然奔波在最劳累的第一线岗位，但一想到未来的晋升路径和可能性，就踌躇满志。</p><p>也许，你们都在这座城市扎根不久，但都梦想着，通过自己的努力打拼，一步步在公司里站稳脚跟，向上晋升，当上高管，买房，成家，立业。</p><p>你有没有想过，这一切，或许会在未来的几年、十几年内，完全改变？</p><p>十几年前，我们会去追求「稳定的职位」。而现在，稳定性正在不断遭到质疑 —— 薪酬倒挂越来越明显，职业经理人空降越来越频繁，企业倾向于招聘新人、年轻人，员工不再谈「忠诚」「安定」，一两年跳槽比比皆是。</p><p>但在不远的将来，也许连「职位」本身，都会成为过去。</p><p>未来的社会形态可能是什么样的呢？</p><p>企业只保留核心团队，将绝大多数工作以合作的形式分配出去；</p><p>绝大多数的个人，将以自由职业者或小型工作室的身份，借由不同的「平台」，跟客户取得联系，并独立为客户提供服务。</p><p>大多数的「职位」将彻底消失。</p><p>当然，到那时，很可能已经没有「职位」的概念了，取而代之的是「任务」。</p><p>如果你不想失业，要么想办法进入企业决策层，要么，就得学会为自己工作。</p><p>这并不是想象。</p><p>这样的趋势，正在以锐不可挡的速度，不断地改变着我们的生活。</p><p>把工作外包是一个必然的趋势</p><p>彼得·德鲁克老爷子，早在《巨变时代的管理》一书中，就写道：</p><p>越来越多的公司跟承包商和临时人员合作，合资企业的数目增加，外包业务成长。为一家公司工作的人，很可能不是该公司的员工。我听过这样一个预测：在未来的几年内，为组织工作的人中，不隶属于组织的员工数量会远远超过隶属于组织的员工人数。<br>在2004年《财富》杂志的访谈中，他更是语出惊人：</p><p>对于那些没有可能进入管理高层的人的工作，你都应当把它们外包出去。</p><p>自从1989年，柯达将大部分信息技术业务外包以来，越来越多的企业开始采用这种方式，对工作进行更加精细的管理，从而提高效率。</p><p>根据美国市调机构Statista的报告，2013年，全球IT外包市场总额为2880亿美元，相当于1.8万亿人民币。预期每年以5.84%的幅度成长，在2019年将达到4000亿美元。</p><p>这是什么概念呢？相当于一整个阿里集团的市值（全球第六）。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;微客多项目&lt;br&gt;&lt;img src=&quot;https://muse-img.b0.upaiyun.com/0bf62546cc924d514084e89f6389461be1b9fc4baf802-mm1csvc2fbt9&quot; alt=&quot;image&quot;&gt;&lt;br&gt;不想失业？你得学会为
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>daxiangshangjia</title>
+    <link href="http://yoursite.com/2017/09/09/daxiangshangjia/"/>
+    <id>http://yoursite.com/2017/09/09/daxiangshangjia/</id>
+    <published>2017-09-09T14:31:08.000Z</published>
+    <updated>2017-09-09T14:36:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>大象商家<br><img src="https://muse-img.b0.upaiyun.com/e8123d17e5c9c9413c97b140955b8dba7531e1fb8a795-7yct6a40wwmi" alt="image"><br>正在读这篇文章的你，从事着什么工作呢？</p><p>也许，你是一名白领，坐在冷气强劲的5A级写字楼，拿着一万出头的工资，每天朝九晚八，带着一身疲惫回家。虽然积蓄不多，却也在一直慢慢增长。</p><p>又或许，你是一名应届生，刚刚进入心仪的大公司，虽然奔波在最劳累的第一线岗位，但一想到未来的晋升路径和可能性，就踌躇满志。</p><p>也许，你们都在这座城市扎根不久，但都梦想着，通过自己的努力打拼，一步步在公司里站稳脚跟，向上晋升，当上高管，买房，成家，立业。</p><p>你有没有想过，这一切，或许会在未来的几年、十几年内，完全改变？</p><p>十几年前，我们会去追求「稳定的职位」。而现在，稳定性正在不断遭到质疑 —— 薪酬倒挂越来越明显，职业经理人空降越来越频繁，企业倾向于招聘新人、年轻人，员工不再谈「忠诚」「安定」，一两年跳槽比比皆是。</p><p>但在不远的将来，也许连「职位」本身，都会成为过去。</p><p>未来的社会形态可能是什么样的呢？</p><p>企业只保留核心团队，将绝大多数工作以合作的形式分配出去；</p><p>绝大多数的个人，将以自由职业者或小型工作室的身份，借由不同的「平台」，跟客户取得联系，并独立为客户提供服务。</p><p>大多数的「职位」将彻底消失。</p><p>当然，到那时，很可能已经没有「职位」的概念了，取而代之的是「任务」。</p><p>如果你不想失业，要么想办法进入企业决策层，要么，就得学会为自己工作。</p><p>这并不是想象。</p><p>这样的趋势，正在以锐不可挡的速度，不断地改变着我们的生活。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大象商家&lt;br&gt;&lt;img src=&quot;https://muse-img.b0.upaiyun.com/e8123d17e5c9c9413c97b140955b8dba7531e1fb8a795-7yct6a40wwmi&quot; alt=&quot;image&quot;&gt;&lt;br&gt;正在读这篇文章的你，从
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>苍山之下 洱海之鱼</title>
+    <link href="http://yoursite.com/2017/08/27/%E6%B4%B1%E6%B5%B7%E7%9A%84%E9%B1%BC/"/>
+    <id>http://yoursite.com/2017/08/27/洱海的鱼/</id>
+    <published>2017-08-27T07:34:03.000Z</published>
+    <updated>2017-08-27T08:59:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/%E8%8B%8D%E5%B1%B1%E5%82%8D%E6%99%9A.jpg" alt="image"><br>傍晚的苍山<br>上楼晾衣服的时候，正直落日十分。苍山的云好像魔术师一样，将苍山打扮了一番。这番震撼的场景为本次旅途增色不少。</p><p><img src="http://ovc2vstc9.bkt.clouddn.com/%E6%B4%B1%E6%B5%B7%E7%9A%84%E9%B1%BC.jpg" alt="image"><br>瞅啥呢！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/%E8%8B%8D%E5%B1%B1%E5%82%8D%E6%99%9A.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;傍晚的苍山&lt;br&gt;上楼晾衣服的时候，正直落日十分。苍山的云好像魔术师一样
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
