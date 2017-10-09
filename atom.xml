@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-30T04:14:22.000Z</updated>
+  <updated>2017-10-09T06:57:38.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>9</title>
-    <link href="http://yoursite.com/2017/09/30/%E8%AF%BE%E8%AF%BE%20Redesign%20UX/"/>
-    <id>http://yoursite.com/2017/09/30/课课 Redesign UX/</id>
-    <published>2017-09-30T04:14:22.000Z</published>
-    <updated>2017-09-30T04:14:22.000Z</updated>
+    <title>插画</title>
+    <link href="http://yoursite.com/2017/10/09/%E6%8F%92%E7%94%BB/"/>
+    <id>http://yoursite.com/2017/10/09/插画/</id>
+    <published>2017-10-09T06:44:59.000Z</published>
+    <updated>2017-10-09T06:57:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>平时的插画练习及工作中设计的插画</p><p>来自一个少女时期的梦，飞向天空<br><img src="http://ovc2vstc9.bkt.clouddn.com/dream.png" alt="image"><br>盛灿企业形象设计<br><img src="http://ovc2vstc9.bkt.clouddn.com/elephent.png" alt="image"><br>根据喜欢吃的水果创作的可爱表情<br><img src="http://ovc2vstc9.bkt.clouddn.com/emoji.png" alt="image"><br>我心中的彼岸花<br><img src="http://ovc2vstc9.bkt.clouddn.com/flower2.png" alt="image"><br>我家的肥猫，虽然它现在还是个小家伙<br><img src="http://ovc2vstc9.bkt.clouddn.com/sketch%20cat.png" alt="image"><br>雪狐<br><img src="http://ovc2vstc9.bkt.clouddn.com/xuehu.png" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;平时的插画练习及工作中设计的插画&lt;/p&gt;
+&lt;p&gt;来自一个少女时期的梦，飞向天空&lt;br&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/dream.png&quot; alt=&quot;image&quot;&gt;&lt;br&gt;盛灿企业形象设计&lt;br&gt;&lt;img src=&quot;ht
+      
+    
+    </summary>
+    
+    
+      <category term="手绘" scheme="http://yoursite.com/tags/%E6%89%8B%E7%BB%98/"/>
+    
+      <category term="插画" scheme="http://yoursite.com/tags/%E6%8F%92%E7%94%BB/"/>
+    
+      <category term="sketch" scheme="http://yoursite.com/tags/sketch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>daxiangdiancan</title>
+    <link href="http://yoursite.com/2017/09/30/daxiangdiancan/"/>
+    <id>http://yoursite.com/2017/09/30/daxiangdiancan/</id>
+    <published>2017-09-30T03:41:21.000Z</published>
+    <updated>2017-09-30T03:41:21.000Z</updated>
     
     <summary type="html">
     
@@ -31,11 +59,11 @@
   </entry>
   
   <entry>
-    <title>8</title>
-    <link href="http://yoursite.com/2017/09/30/%E8%89%AF%E5%93%81%20UX/"/>
-    <id>http://yoursite.com/2017/09/30/良品 UX/</id>
-    <published>2017-09-30T04:14:14.000Z</published>
-    <updated>2017-09-30T04:14:14.000Z</updated>
+    <title>daxiangdiancan</title>
+    <link href="http://yoursite.com/2017/09/30/Archive/daxiangdiancan/"/>
+    <id>http://yoursite.com/2017/09/30/Archive/daxiangdiancan/</id>
+    <published>2017-09-30T03:41:21.000Z</published>
+    <updated>2017-09-30T03:41:21.000Z</updated>
     
     <summary type="html">
     
@@ -45,11 +73,11 @@
   </entry>
   
   <entry>
-    <title>7</title>
-    <link href="http://yoursite.com/2017/09/30/%E5%A4%A7%E8%B1%A1%E7%82%B9%E9%A4%90%20wireframe/"/>
-    <id>http://yoursite.com/2017/09/30/大象点餐 wireframe/</id>
-    <published>2017-09-30T04:14:09.000Z</published>
-    <updated>2017-09-30T04:14:09.000Z</updated>
+    <title>in</title>
+    <link href="http://yoursite.com/2017/09/30/in/"/>
+    <id>http://yoursite.com/2017/09/30/in/</id>
+    <published>2017-09-30T03:40:29.000Z</published>
+    <updated>2017-09-30T03:40:29.000Z</updated>
     
     <summary type="html">
     
@@ -59,11 +87,11 @@
   </entry>
   
   <entry>
-    <title>6</title>
-    <link href="http://yoursite.com/2017/09/30/%E5%A4%A7%E8%B1%A1%E5%95%86%E5%AE%B6%20UI/"/>
-    <id>http://yoursite.com/2017/09/30/大象商家 UI/</id>
-    <published>2017-09-30T04:13:59.000Z</published>
-    <updated>2017-09-30T04:13:59.000Z</updated>
+    <title>in</title>
+    <link href="http://yoursite.com/2017/09/30/Archive/in/"/>
+    <id>http://yoursite.com/2017/09/30/Archive/in/</id>
+    <published>2017-09-30T03:40:29.000Z</published>
+    <updated>2017-09-30T03:40:29.000Z</updated>
     
     <summary type="html">
     
@@ -73,11 +101,11 @@
   </entry>
   
   <entry>
-    <title>5</title>
-    <link href="http://yoursite.com/2017/09/30/%E9%9A%8F%E4%BE%BF%E7%94%BB/"/>
-    <id>http://yoursite.com/2017/09/30/随便画/</id>
-    <published>2017-09-30T04:13:54.000Z</published>
-    <updated>2017-09-30T04:13:54.000Z</updated>
+    <title>liangpin</title>
+    <link href="http://yoursite.com/2017/09/30/Archive/liangpin/"/>
+    <id>http://yoursite.com/2017/09/30/Archive/liangpin/</id>
+    <published>2017-09-30T03:40:24.000Z</published>
+    <updated>2017-09-30T03:40:24.000Z</updated>
     
     <summary type="html">
     
@@ -87,16 +115,302 @@
   </entry>
   
   <entry>
-    <title>4</title>
-    <link href="http://yoursite.com/2017/09/30/%E6%91%84%E5%BD%B1/"/>
-    <id>http://yoursite.com/2017/09/30/摄影/</id>
-    <published>2017-09-30T04:13:48.000Z</published>
-    <updated>2017-09-30T04:13:48.000Z</updated>
+    <title>liangpin</title>
+    <link href="http://yoursite.com/2017/09/30/liangpin/"/>
+    <id>http://yoursite.com/2017/09/30/liangpin/</id>
+    <published>2017-09-30T03:40:24.000Z</published>
+    <updated>2017-09-30T03:40:24.000Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>盛灿BBS</title>
+    <link href="http://yoursite.com/2017/09/30/bbs/"/>
+    <id>http://yoursite.com/2017/09/30/bbs/</id>
+    <published>2017-09-30T03:40:08.000Z</published>
+    <updated>2017-09-30T03:47:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>盛灿BBS</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;盛灿BBS&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="UX" scheme="http://yoursite.com/tags/UX/"/>
+    
+      <category term="UI" scheme="http://yoursite.com/tags/UI/"/>
+    
+      <category term="后台" scheme="http://yoursite.com/tags/%E5%90%8E%E5%8F%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>盛灿BBS</title>
+    <link href="http://yoursite.com/2017/09/30/Archive/bbs/"/>
+    <id>http://yoursite.com/2017/09/30/Archive/bbs/</id>
+    <published>2017-09-30T03:40:08.000Z</published>
+    <updated>2017-09-30T03:47:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>盛灿BBS</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;盛灿BBS&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="UX" scheme="http://yoursite.com/tags/UX/"/>
+    
+      <category term="UI" scheme="http://yoursite.com/tags/UI/"/>
+    
+      <category term="后台" scheme="http://yoursite.com/tags/%E5%90%8E%E5%8F%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>课课Redesign</title>
+    <link href="http://yoursite.com/2017/09/30/Archive/keke/"/>
+    <id>http://yoursite.com/2017/09/30/Archive/keke/</id>
+    <published>2017-09-30T03:39:51.000Z</published>
+    <updated>2017-09-30T03:43:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>课课</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;课课&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="ued" scheme="http://yoursite.com/tags/ued/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>课课Redesign</title>
+    <link href="http://yoursite.com/2017/09/30/keke/"/>
+    <id>http://yoursite.com/2017/09/30/keke/</id>
+    <published>2017-09-30T03:39:51.000Z</published>
+    <updated>2017-09-30T03:43:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>课课</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;课课&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="ued" scheme="http://yoursite.com/tags/ued/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://yoursite.com/2017/09/30/Archive/about/"/>
+    <id>http://yoursite.com/2017/09/30/Archive/about/</id>
+    <published>2017-09-29T19:24:29.000Z</published>
+    <updated>2017-09-29T19:24:29.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://yoursite.com/2017/09/30/about/"/>
+    <id>http://yoursite.com/2017/09/30/about/</id>
+    <published>2017-09-29T19:24:29.000Z</published>
+    <updated>2017-09-29T19:24:29.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>article3</title>
+    <link href="http://yoursite.com/2017/09/30/Archive/article3/"/>
+    <id>http://yoursite.com/2017/09/30/Archive/article3/</id>
+    <published>2017-09-29T18:51:53.000Z</published>
+    <updated>2017-09-29T19:19:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>I don`t konw.<br>It just a test .<br>I want to make sure how to change the post cove ?</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I don`t konw.&lt;br&gt;It just a test .&lt;br&gt;I want to make sure how to change the post cove ?&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+    
+    
+      <category term="ued" scheme="http://yoursite.com/tags/ued/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>article3</title>
+    <link href="http://yoursite.com/2017/09/30/article3/"/>
+    <id>http://yoursite.com/2017/09/30/article3/</id>
+    <published>2017-09-29T18:51:53.000Z</published>
+    <updated>2017-09-29T19:19:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>I don`t konw.<br>It just a test .<br>I want to make sure how to change the post cove ?</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I don`t konw.&lt;br&gt;It just a test .&lt;br&gt;I want to make sure how to change the post cove ?&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+    
+    
+      <category term="ued" scheme="http://yoursite.com/tags/ued/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>article2</title>
+    <link href="http://yoursite.com/2017/09/30/Archive/article2/"/>
+    <id>http://yoursite.com/2017/09/30/Archive/article2/</id>
+    <published>2017-09-29T18:51:38.000Z</published>
+    <updated>2017-09-29T18:52:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>What is this?</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;What is this?&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+    
+    
+      <category term="ued" scheme="http://yoursite.com/tags/ued/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>article2</title>
+    <link href="http://yoursite.com/2017/09/30/article2/"/>
+    <id>http://yoursite.com/2017/09/30/article2/</id>
+    <published>2017-09-29T18:51:38.000Z</published>
+    <updated>2017-09-29T18:52:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>What is this?</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;What is this?&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+    
+    
+      <category term="ued" scheme="http://yoursite.com/tags/ued/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>resume</title>
+    <link href="http://yoursite.com/2017/09/09/Archive/resume/"/>
+    <id>http://yoursite.com/2017/09/09/Archive/resume/</id>
+    <published>2017-09-09T14:31:32.000Z</published>
+    <updated>2017-09-29T18:48:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://ovc2vstc9.bkt.clouddn.com/work4.jpg" target="_blank" rel="external">http://ovc2vstc9.bkt.clouddn.com/work4.jpg</a><br><img src="http://ovc2vstc9.bkt.clouddn.com/WX20170909-224629@2x.png" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://ovc2vstc9.bkt.clouddn.com/work4.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://ovc2vstc9.bkt.clouddn.com/work4.jpg&lt;/a&gt;&lt;br&gt;&lt;im
+      
+    
+    </summary>
+    
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+    
+    
+      <category term="ued" scheme="http://yoursite.com/tags/ued/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>resume</title>
+    <link href="http://yoursite.com/2017/09/09/resume/"/>
+    <id>http://yoursite.com/2017/09/09/resume/</id>
+    <published>2017-09-09T14:31:32.000Z</published>
+    <updated>2017-09-29T18:48:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://ovc2vstc9.bkt.clouddn.com/work4.jpg" target="_blank" rel="external">http://ovc2vstc9.bkt.clouddn.com/work4.jpg</a><br><img src="http://ovc2vstc9.bkt.clouddn.com/WX20170909-224629@2x.png" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://ovc2vstc9.bkt.clouddn.com/work4.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://ovc2vstc9.bkt.clouddn.com/work4.jpg&lt;/a&gt;&lt;br&gt;&lt;im
+      
+    
+    </summary>
+    
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+    
+    
+      <category term="ued" scheme="http://yoursite.com/tags/ued/"/>
     
   </entry>
   
