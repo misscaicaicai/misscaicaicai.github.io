@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-09T19:47:13.000Z</updated>
+  <updated>2017-10-10T07:34:38.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,79 +17,112 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>BBS/OA</title>
-    <link href="http://yoursite.com/2017/10/10/BBS-OA/"/>
-    <id>http://yoursite.com/2017/10/10/BBS-OA/</id>
-    <published>2017-10-09T19:44:25.000Z</published>
-    <updated>2017-10-09T19:47:13.000Z</updated>
+    <title>盛灿OA／BBS</title>
+    <link href="http://yoursite.com/2017/10/10/%E7%9B%9B%E7%81%BFOA%EF%BC%8FBBS/"/>
+    <id>http://yoursite.com/2017/10/10/盛灿OA／BBS/</id>
+    <published>2017-10-10T07:34:28.000Z</published>
+    <updated>2017-10-10T07:34:38.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/example%20copy.png" alt="image"><br>盛灿BBS是供公司内部人员交流的网站。</p><p><img src="http://ovc2vstc9.bkt.clouddn.com/example.png" alt="image"><br>OA系统是方便随时查看盛灿商品的库存、销量、等等。</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/example%20copy.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/example.png" alt="image"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/example%20copy.png&quot; alt=&quot;image&quot;&gt;&lt;br&gt;盛灿BBS是供公司内部人员交流的网站。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.
+        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/example%20copy.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/example.png
       
     
     </summary>
     
-    
-      <category term="后台" scheme="http://yoursite.com/tags/%E5%90%8E%E5%8F%B0/"/>
-    
-      <category term="数据产品" scheme="http://yoursite.com/tags/%E6%95%B0%E6%8D%AE%E4%BA%A7%E5%93%81/"/>
-    
-      <category term="BBS" scheme="http://yoursite.com/tags/BBS/"/>
     
   </entry>
   
   <entry>
-    <title>daxianghuoban</title>
-    <link href="http://yoursite.com/2017/10/10/daxianghuoban/"/>
-    <id>http://yoursite.com/2017/10/10/daxianghuoban/</id>
-    <published>2017-10-09T19:26:47.000Z</published>
-    <updated>2017-10-09T22:54:40.000Z</updated>
+    <title>大象点餐商家端</title>
+    <link href="http://yoursite.com/2017/10/10/%E5%A4%A7%E8%B1%A1%E7%82%B9%E9%A4%90%E5%95%86%E5%AE%B6%E7%AB%AF/"/>
+    <id>http://yoursite.com/2017/10/10/大象点餐商家端/</id>
+    <published>2017-10-10T07:30:08.000Z</published>
+    <updated>2017-10-10T07:31:35.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/7-1%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%99%BB%E5%BD%95.jpg" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/4-1%E5%95%86%E6%88%B7%E5%85%A5%E9%A9%BB-%E8%B4%A6%E6%88%B7%E6%B3%A8%E5%86%8C.jpg" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/1%E9%A6%96%E9%A1%B5.jpg" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/2-1%E5%95%86%E6%88%B7%E6%90%9C%E7%B4%A2-%E7%BB%93%E6%9E%9C.jpg" alt="image"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%A4%A7%E8%B1%A1%E7%82%B9%E9%A4%90.png" alt="image"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/7-1%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%99%BB%E5%BD%95.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ovc
+        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/%E5%A4%A7%E8%B1%A1%E7%82%B9%E9%A4%90.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+
       
     
     </summary>
     
-    
-      <category term="UI" scheme="http://yoursite.com/tags/UI/"/>
     
   </entry>
   
   <entry>
-    <title>weikeduo ui grid</title>
-    <link href="http://yoursite.com/2017/10/10/weikeduo-ui-grid/"/>
-    <id>http://yoursite.com/2017/10/10/weikeduo-ui-grid/</id>
-    <published>2017-10-09T19:22:11.000Z</published>
-    <updated>2017-10-09T19:23:41.000Z</updated>
+    <title>大象商城</title>
+    <link href="http://yoursite.com/2017/10/10/%E5%A4%A7%E8%B1%A1%E5%95%86%E5%9F%8E/"/>
+    <id>http://yoursite.com/2017/10/10/大象商城/</id>
+    <published>2017-10-10T07:24:04.000Z</published>
+    <updated>2017-10-10T07:24:11.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%90%8E%E5%8F%B0UI%E8%A7%84%E8%8C%831.jpg" alt="image"><br><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%90%8E%E5%8F%B0UI%E8%A7%84%E8%8C%832.jpg" alt="image"><br><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%90%8E%E5%8F%B0UI%E8%A7%84%E8%8C%833.jpg" alt="image"><br><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%90%8E%E5%8F%B0UI%E8%A7%84%E8%8C%834.jpg" alt="image"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%A4%A7%E8%B1%A1%E5%95%86%E5%AE%B62.png" alt="image"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/%E5%90%8E%E5%8F%B0UI%E8%A7%84%E8%8C%831.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.cl
+        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/%E5%A4%A7%E8%B1%A1%E5%95%86%E5%AE%B62.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+
       
     
     </summary>
     
     
-      <category term="UI" scheme="http://yoursite.com/tags/UI/"/>
+  </entry>
+  
+  <entry>
+    <title>大象点餐</title>
+    <link href="http://yoursite.com/2017/10/10/%E5%A4%A7%E8%B1%A1%E7%82%B9%E9%A4%90/"/>
+    <id>http://yoursite.com/2017/10/10/大象点餐/</id>
+    <published>2017-10-10T07:22:59.000Z</published>
+    <updated>2017-10-10T07:30:33.000Z</updated>
     
-      <category term="GRID" scheme="http://yoursite.com/tags/GRID/"/>
+    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%A4%A7%E8%B1%A1%E7%82%B9%E9%A4%903.png" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/%E5%A4%A7%E8%B1%A1%E7%82%B9%E9%A4%903.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>大象伙伴</title>
+    <link href="http://yoursite.com/2017/10/10/%E5%A4%A7%E8%B1%A1%E4%BC%99%E4%BC%B4/"/>
+    <id>http://yoursite.com/2017/10/10/大象伙伴/</id>
+    <published>2017-10-10T07:20:32.000Z</published>
+    <updated>2017-10-10T07:31:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/dxdc.png" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/dxdc.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
     
   </entry>
   
@@ -98,17 +131,13 @@
     <link href="http://yoursite.com/2017/10/09/Illustrations/"/>
     <id>http://yoursite.com/2017/10/09/Illustrations/</id>
     <published>2017-10-09T07:10:27.000Z</published>
-    <updated>2017-10-09T07:15:00.000Z</updated>
+    <updated>2017-10-10T07:20:12.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/dream.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/elephent.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/emoji.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/flower2.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/cat.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/sketch%20cat.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/xuehu.png" alt="image"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://ovc2vstc9.bkt.clouddn.com/dream.png" alt="image"></p><a id="more"></a><p><img src="http://ovc2vstc9.bkt.clouddn.com/elephent.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/emoji.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/flower2.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/cat.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/sketch%20cat.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/xuehu.png" alt="image"></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/dream.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/elephent.png&quot; alt=&quot;i
-      
+      &lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/dream.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
     
     </summary>
     
