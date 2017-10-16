@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-11T02:31:16.000Z</updated>
+  <updated>2017-10-16T18:31:14.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>智能音箱产品概念交互设计</title>
+    <link href="http://yoursite.com/2017/10/17/%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1%E4%BA%A7%E5%93%81%E6%A6%82%E5%BF%B5%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://yoursite.com/2017/10/17/智能音箱产品概念交互设计/</id>
+    <published>2017-10-16T18:30:22.000Z</published>
+    <updated>2017-10-16T18:31:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>对话，是这类产品与用户交互的最多的方式，那么如何告知用户，音箱可以做什么呢？这就需要一个个“技能”，每一个技能实际上都是一个“app”</p><p><img src="http://ovc2vstc9.bkt.clouddn.com/skills%20copy%202.png" alt="image"><br><a id="more"></a></p><p>一句话，千呼万唤“众多音”；<br><img src="http://ovc2vstc9.bkt.clouddn.com/contents%20copy.png" alt="image"></p><p>控制更多的智能设备，是这类产品的基本功能之一。<br><img src="http://ovc2vstc9.bkt.clouddn.com/contents%20copy%202.png" alt="image"></p><p>谁在什么时间什么地点做什么事情，这类产品应该习惯“用户的习惯”，并帮助用户提高效率。<br><img src="http://ovc2vstc9.bkt.clouddn.com/scenes%20copy%202.png" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;对话，是这类产品与用户交互的最多的方式，那么如何告知用户，音箱可以做什么呢？这就需要一个个“技能”，每一个技能实际上都是一个“app”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ovc2vstc9.bkt.clouddn.com/skills%20copy%202.png&quot; alt=&quot;image&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一款智能硬件产品的市场研究及用户建模</title>
+    <link href="http://yoursite.com/2017/10/17/%E4%B8%80%E6%AC%BE%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E4%BA%A7%E5%93%81%E7%9A%84%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6%E5%8F%8A%E7%94%A8%E6%88%B7%E5%BB%BA%E6%A8%A1/"/>
+    <id>http://yoursite.com/2017/10/17/一款智能硬件产品的市场研究及用户建模/</id>
+    <published>2017-10-16T18:09:15.000Z</published>
+    <updated>2017-10-16T18:18:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们知道儿童成长最大的痛点是缺少父母陪伴，儿童陪伴机器人能弥补孩子孤独成长的遗憾，具有情感替代作用<br>与此同时也解决了父母工作和家庭难以两全的矛盾，这是儿童陪伴机器人市场近年来逐渐兴旺的重要原因。<br><a id="more"></a></p><h4 id="1-市场调研"><a href="#1-市场调研" class="headerlink" title="1.市场调研"></a>1.市场调研</h4><pre><code> 1. 市场规模a.家庭陪伴娱乐机器人2016年国内零售额达9200万人民币，线上渠道为零售端的主流销售渠道。家庭陪伴娱乐机器人主打娱乐和陪伴，主流市场价位在700-3000不等。发展阶段b.首先在用户层面。儿童机器人用户中绝大部分是零零后群体，虽然他们本身不具备购买力，但他们背后的家长恰恰是以80后为主的职场主力军。80后对下一代的教育有两个鲜明的特点，其一是婴幼儿智能启蒙教育、其二是场景式陪伴，而儿童机器人正好具有这些功能。c.其次是需求问题据相关统计，目前中国有56%的空巢家庭，将近7000万的留守儿童。即便是生活在一起的父母和孩子交流的机会也偏少。而智能机器人可以借助网络打破空间的界限，打造一个碎片化的陪伴体验。我们知道儿童成长最大的痛点是缺少父母陪伴，儿童陪伴机器人能弥补孩子孤独成长的遗憾，具有情感替代作用与此同时也解决了父母工作和家庭难以两全的矛盾，这是儿童陪伴机器人市场近年来逐渐兴旺的重要原因。d.最后便是技术当前，随着人工智能技术以及人脸识别、视频交互等安防技术与家庭机器人主要应用场景高度耦合不断衍生出各种类型的智能化产品，为用户提供良好的使用体验，而儿童机器人便是其中一种2. 儿童机器人的现状儿童机器人的不足a、 弱智能化不仅是儿童机器人，包括其他行业的安保机器人、餐饮机器人等，均处于弱人工智能的阶段，很多情况下尚不能代替个人实现完全的智能化。b、 交互体验差现在很多儿童机器人都只是处于简单的几句互动、用手机控制才能动一动的阶段，语音对话根本达不到顺畅程度，交互体验差，家长都不愿与之交流，更何况孩子。c、 差异性不足很多商家一看到机器人风口到来，拼命扎堆。殊不知，这是一个需要技术沉淀和经验积累的领域，他们缺乏这方面的支撑，只能将原来的学习机、点读机、平板的功能换个机器人的外壳便拿出来销售，但实际上并没有体现出任何机器人的特点。d、 缺乏市场教育目前，儿童机器人尚未真正普及，很多家长并不了解机器人的作用，甚至仍将机器人等同于“玩具”，相比起动辄三五千的儿童陪伴机器人，他们更愿意购买一些普通的儿童玩具给孩子打发时间3.儿童机器人的着力点首先，必须能够胜任且满足家长对于儿童的陪伴需求它和儿童之间的交互应该真正符合儿童那个年龄段的特征习惯，尤其是在语言交互方面要做到符合儿童的语言特点。4.其次，要安全可靠儿童机器人从设计到工艺再到软件层面的安全防护一定要做到安全可靠，这样家长才有可能放心地将产品交给孩子。最后，具有启蒙教育功能。儿童机器人只有起到寓教于乐的作用，才会获得儿童用户的喜欢，会获得家长的认可。5.儿童机器人的未来a、儿童机器人的未来必然会成为万千家庭儿童的标配伴随着AI技术的发展和成熟，儿童机器人的未来必然会迎来爆发期，展现出巨大的商业价值空间。目前儿童机器人并不是刚需产品，家长消费习惯也尚未养成。从市场的反馈来看，真正的行业高峰还没有出现，行业整体也还处于早期阶段在短期内仍将是一个小众市场。但随着儿童机器人技术的成熟，成本会进一步下降，未来，儿童机器人一定会成为万千家庭儿童的标配。b、儿童机器人市场将会出现更细分市场儿童机器人市场将会出现更细分市场，比如现在已经有一些推出专门针对教育、游戏与陪伴等细分市场的产品进一步挖掘家庭单位中，家长对儿童的更加细致的需求，通过技术的迭代升级和产品特性来满足用户的需求痛点，慢慢实现儿童机器人走入千家万户</code></pre><h4 id="2-技术参数"><a href="#2-技术参数" class="headerlink" title="2.技术参数"></a>2.技术参数</h4><p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%AD%90%E4%B8%BB%E9%A2%98%201.png" alt="image"></p><h4 id="3-公司背景"><a href="#3-公司背景" class="headerlink" title="3.公司背景"></a>3.公司背景</h4><p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%AD%90%E4%B8%BB%E9%A2%98%202.png" alt="image"></p><h4 id="4-核心功能"><a href="#4-核心功能" class="headerlink" title="4.核心功能"></a>4.核心功能</h4><p><img src="http://ovc2vstc9.bkt.clouddn.com/%E8%87%AA%E4%B8%BB%E9%A2%983.png" alt="image"></p><h4 id="5-人物建模（人物研究主要通过用户访谈和用户观察进行，此处只放置人物模型）"><a href="#5-人物建模（人物研究主要通过用户访谈和用户观察进行，此处只放置人物模型）" class="headerlink" title="5.人物建模（人物研究主要通过用户访谈和用户观察进行，此处只放置人物模型）"></a>5.人物建模（人物研究主要通过用户访谈和用户观察进行，此处只放置人物模型）</h4><p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%A4%A7%E4%BA%BA1.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%A4%A7%E4%BA%BA2.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%A4%A7%E4%BA%BA3.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%A4%A7%E4%BA%BA4.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%B0%8F%E5%AD%A92.png" alt="image"></p><p><img src="http://ovc2vstc9.bkt.clouddn.com/%E5%B0%8F%E5%AD%A93.png" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我们知道儿童成长最大的痛点是缺少父母陪伴，儿童陪伴机器人能弥补孩子孤独成长的遗憾，具有情感替代作用&lt;br&gt;与此同时也解决了父母工作和家庭难以两全的矛盾，这是儿童陪伴机器人市场近年来逐渐兴旺的重要原因。&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>文章翻译-双钻石模型</title>
